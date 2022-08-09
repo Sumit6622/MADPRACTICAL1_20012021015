@@ -6,3 +6,6 @@ OUTPUT PRACTICAL2:
 
 OUTPUT PRACTICAL3:
 ![Screen Shot 2022-08-07 at 1 41 00 PM](https://user-images.githubusercontent.com/110661984/183281822-22b17c48-d985-432f-b47f-cc5f22e6c3fc.png)
+
+OUTPUT PRACTICAL4:
+![Screenshot (62)](https://user-images.githubusercontent.com/110661984/183581587-c4c21792-f304-4c3b-9bca-88e69c998df9.png)
