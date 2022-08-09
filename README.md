@@ -14,4 +14,4 @@ OUTPUT PRACTICAL5:
 ![Screenshot (63)](https://user-images.githubusercontent.com/110661984/183581805-5e631123-5c35-4cc1-a927-3c2bc7582eca.png)
 
 OUTPUT PRACTICAL6:
-![image](https://user-images.githubusercontent.com/110661984/183582000-404c9a21-66e5-4e08-a417-1c4309365640.png)
+![image](https://user-images.githubusercontent.com/110661984/183583070-c2f1af04-8559-4c51-ab76-9f96960e5a34.png)
