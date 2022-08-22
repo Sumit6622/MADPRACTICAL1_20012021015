@@ -15,3 +15,16 @@ OUTPUT PRACTICAL5:
 
 OUTPUT PRACTICAL6:
 ![image](https://user-images.githubusercontent.com/110661984/183583070-c2f1af04-8559-4c51-ab76-9f96960e5a34.png)
+
+OUTPUT PRACTICAL7:
+![practical 1_7](https://user-images.githubusercontent.com/110661984/185959370-6af8754b-393f-491f-99c7-d79801b37bd9.png)
+
+OUTPUT PRACTICAL8:
+![practical 1_8](https://user-images.githubusercontent.com/110661984/185959446-c4db5319-84cc-45de-8f67-c1fa284ad89e.png)
+
+OUTPUT PRACTICAL9:
+![practical 1_9](https://user-images.githubusercontent.com/110661984/185959553-7d613dd6-a4ca-45c8-a726-3e5280fb05ec.png)
+
+OUTPUT PRACTICAL10:
+![practical 1_10](https://user-images.githubusercontent.com/110661984/185959616-5423b627-d8bc-486c-b9a1-09e69d3acccc.png)
+
