@@ -14,7 +14,7 @@ OUTPUT PRACTICAL5:
 ![Screenshot (63)](https://user-images.githubusercontent.com/110661984/183581805-5e631123-5c35-4cc1-a927-3c2bc7582eca.png)
 
 OUTPUT PRACTICAL6:
-![image](https://user-images.githubusercontent.com/110661984/183583070-c2f1af04-8559-4c51-ab76-9f96960e5a34.png)
+![practical 1_6](https://user-images.githubusercontent.com/110661984/186170648-55200edd-6dea-4b1a-9ff2-d4eba8e81eef.png)
 
 OUTPUT PRACTICAL7:
 ![practical 1_7](https://user-images.githubusercontent.com/110661984/185959370-6af8754b-393f-491f-99c7-d79801b37bd9.png)
@@ -28,3 +28,6 @@ OUTPUT PRACTICAL9:
 OUTPUT PRACTICAL10:
 ![practical 1_10](https://user-images.githubusercontent.com/110661984/185959616-5423b627-d8bc-486c-b9a1-09e69d3acccc.png)
 
+OUTPUT PRACTICAL11:
+![practical 1_11(1)](https://user-images.githubusercontent.com/110661984/186170757-0453c410-b870-4bb9-9b18-c35d7f03a777.png)
+![practical 1_11(2)](https://user-images.githubusercontent.com/110661984/186170764-1f7fb102-7a21-4452-88ac-af9e7cfb6fd4.png)
