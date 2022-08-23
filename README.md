@@ -1,30 +1,34 @@
 OUTPUT PRACTICAL1: 
-![Screen Shot 2022-08-07 at 11 39 49 AM](https://user-images.githubusercontent.com/110661984/183278061-d8c1c266-b284-4c48-bab0-549cf7b23611.png)
+![1](https://user-images.githubusercontent.com/110661984/186176194-4058961b-4ae8-4cfe-8adc-a3eb4e80af9c.png)
 
 OUTPUT PRACTICAL2:
-![Screen Shot 2022-08-07 at 1 12 49 PM](https://user-images.githubusercontent.com/110661984/183281816-3d125c6d-1f80-4e0a-9798-92a5d6795343.png)
+![2](https://user-images.githubusercontent.com/110661984/186176214-5f54f85c-909e-4d5b-bd2c-4e4c804de1d3.png)
 
 OUTPUT PRACTICAL3:
-![Screen Shot 2022-08-07 at 1 41 00 PM](https://user-images.githubusercontent.com/110661984/183281822-22b17c48-d985-432f-b47f-cc5f22e6c3fc.png)
+![3](https://user-images.githubusercontent.com/110661984/186176249-df220ce4-602e-4371-a922-94d9853e1f0a.png)
 
 OUTPUT PRACTICAL4:
-![Screenshot (62)](https://user-images.githubusercontent.com/110661984/183581587-c4c21792-f304-4c3b-9bca-88e69c998df9.png)
+![4](https://user-images.githubusercontent.com/110661984/186176257-5f23f536-d875-40c1-848b-c703896df7ff.png)
 
 OUTPUT PRACTICAL5:
-![Screenshot (63)](https://user-images.githubusercontent.com/110661984/183581805-5e631123-5c35-4cc1-a927-3c2bc7582eca.png)
+![5](https://user-images.githubusercontent.com/110661984/186176268-52ccfdec-1c4f-4106-b85a-735e11ad1838.png)
 
 OUTPUT PRACTICAL6:
-![image](https://user-images.githubusercontent.com/110661984/183583070-c2f1af04-8559-4c51-ab76-9f96960e5a34.png)
+![6](https://user-images.githubusercontent.com/110661984/186176331-23f6633e-93d1-4c1d-99ae-971cc6e94c08.png)
 
 OUTPUT PRACTICAL7:
-![practical 1_7](https://user-images.githubusercontent.com/110661984/185959370-6af8754b-393f-491f-99c7-d79801b37bd9.png)
+![7](https://user-images.githubusercontent.com/110661984/186176349-0049c436-104c-4b75-a6cd-0108488c5e53.png)
 
 OUTPUT PRACTICAL8:
-![practical 1_8](https://user-images.githubusercontent.com/110661984/185959446-c4db5319-84cc-45de-8f67-c1fa284ad89e.png)
+![8](https://user-images.githubusercontent.com/110661984/186176386-fa160891-f31e-4c73-af31-d15400cadcf0.png)
 
 OUTPUT PRACTICAL9:
-![practical 1_9](https://user-images.githubusercontent.com/110661984/185959553-7d613dd6-a4ca-45c8-a726-3e5280fb05ec.png)
+![9](https://user-images.githubusercontent.com/110661984/186176408-86c6fe71-7975-487f-9782-b08fa0af06f5.png)
 
 OUTPUT PRACTICAL10:
-![practical 1_10](https://user-images.githubusercontent.com/110661984/185959616-5423b627-d8bc-486c-b9a1-09e69d3acccc.png)
+![10](https://user-images.githubusercontent.com/110661984/186176456-9ad98d83-f78c-49dc-b81b-1e1cca6d36ce.png)
+
+OUTPUT PRACTICAL11:
+![11(1)](https://user-images.githubusercontent.com/110661984/186176498-acd9546f-f1a1-4753-bfff-e6502c016e8d.png)
+![11(2)](https://user-images.githubusercontent.com/110661984/186176526-63f9c103-fbd3-48f1-ae03-ca5efac16ed9.png)
 
